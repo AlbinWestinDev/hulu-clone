@@ -17,32 +17,4 @@ export default {
     title: "Comedy",
     url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
   },
-  fetchHorrorMovies: {
-    title: "Horror",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchRomanceMovies: {
-    title: "Romance",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchMystery: {
-    title: "Mystery",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchSciFi: {
-    title: "Sci-Fi",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchWestern: {
-    title: "Western",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchAnimation: {
-    title: "Animation",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
-  fetchTv: {
-    title: "Tv Movie",
-    url: `/discover/movie?api_key=${API_KEY}&language=en-US`,
-  },
 };
